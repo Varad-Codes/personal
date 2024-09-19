@@ -6,6 +6,8 @@
 }
 
 .letter-div-body {
+  transition: all 0.3s ease;
+
   display: flex;
   justify-content: center;
   align-items: center;
