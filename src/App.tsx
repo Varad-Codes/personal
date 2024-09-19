@@ -1,11 +1,13 @@
-import './App.css'
+import "./App.css";
 
 function App() {
   return (
-    <div>
-      <h1>making something great</h1>
+    // The Main Content
+    <div className="letter-div-body">
+      {/* The Main Title */}
+      <h1>Lorem Ipsum</h1>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
